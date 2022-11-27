@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * find_smallest_int - function to find smallest unteger in array
+ * find_smallest_int - function to find smallest integer in array
  * @array: array of integers
  * @len: size of array
  * Return: the smallest integer in array
