@@ -26,10 +26,6 @@ void count_positives_sum_negatives(
 			negative_sum += 0;
 		}
 	}
-  
-	*positivesCount = positive_count;
-	*negativesSum = negative_sum;
-  
 	/**
 	 * Please store the negatives sum in the memory, pointed to
 	 * by the negativesSum parameter.*/
